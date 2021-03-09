@@ -4,7 +4,7 @@
 
 Alumno en programacion informartica de la UNSAM.
 
-![sin 1](sin 1.png)
+![Sin 1](Sin 1.png)
 
 ------
 
