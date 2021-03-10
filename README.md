@@ -4,7 +4,7 @@
 
 Alumno en programacion informartica de la UNSAM.
 
-![Sin 1](Sin 1.png)
+![Sin 1](https://github.com/algo1unsam/2021s1-tp0-presentacion-Ralonso20/blob/master/Sin%201.png)
 
 ------
 
